@@ -1,0 +1,6 @@
+
+Frames procesados: 28/28
+Duración del video real: 1.22 seg
+Tiempo total de procesamiento: 2.03 seg
+Factor de procesamiento vs tiempo real: 1.66x
+CSV guardado en: EstadisticasE_2m_nano_Color.csv

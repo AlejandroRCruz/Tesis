@@ -1,0 +1,6 @@
+
+Frames procesados: 43/43
+Duración del video real: 1.87 seg
+Tiempo total de procesamiento: 3.00 seg
+Factor de procesamiento vs tiempo real: 1.60x
+CSV guardado en: Estadisticasacercamiento_final_nano_Color.csv

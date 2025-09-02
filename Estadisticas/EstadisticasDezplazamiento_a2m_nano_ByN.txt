@@ -1,0 +1,6 @@
+
+Frames procesados: 107/107
+Duración del video real: 4.65 seg
+Tiempo total de procesamiento: 7.35 seg
+Factor de procesamiento vs tiempo real: 1.58x
+CSV guardado en: Estadisticas\EstadisticasDezplazamiento_a2m_nano_ByN.csv

@@ -1,0 +1,6 @@
+
+Frames procesados: 43/43
+Duración del video real: 1.87 seg
+Tiempo total de procesamiento: 3.21 seg
+Factor de procesamiento vs tiempo real: 1.72x
+CSV guardado en: Estadisticas\Estadisticasacercamiento_final_nano_ByN.csv

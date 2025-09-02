@@ -1,0 +1,6 @@
+
+Frames procesados: 41/41
+Duración del video real: 1.78 seg
+Tiempo total de procesamiento: 2.84 seg
+Factor de procesamiento vs tiempo real: 1.59x
+CSV guardado en: EstadisticasAcomodo_a4m_nano_Color.csv
