@@ -1,1 +1,16 @@
 name,start_frame,end_frame
+Frente_5m,13,64
+Lado1_5m,65,101
+Espalda_5m,102,138
+Lado2_5m,139,161
+Avance_4m,162,208
+Frente_4m,209,245
+Lado1_4m,246,283
+Espalda_4m,284,321
+Lado2_4m,322,355
+Acercamiento_2m,356,459
+Frente_2m,460,504
+Lado1_2m,505,538
+Espalda_2m,539,578
+Lado2_2m,579,607
+Acercamiento_final,608,656
