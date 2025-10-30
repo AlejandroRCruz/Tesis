@@ -7,15 +7,6 @@ classes: Lista de clases que quieres detectar. En COCO, 0 = persona. classes=[0]
 
 max_det: Máximo número de detecciones a conservar por frame. Ej. max_det=10 → procesa hasta 20 personas como máximo.
 '''
-'''
-conf: Umbral mínimo de confianza para aceptar detecciones. Ej. conf=0.6 → descarta cajas <60%.
-
-iou: Umbral de solapamiento en Non-Maximum Suppression (NMS). Ej. iou=0.45 → si dos cajas se solapan >45%, se queda la mejor.
-
-classes: Lista de clases que quieres detectar. En COCO, 0 = persona. classes=[0] → detecta solo personas.
-
-max_det: Máximo número de detecciones a conservar por frame. Ej. max_det=20 → procesa hasta 20 personas como máximo.
-'''
 import cv2
 import time
 import csv
