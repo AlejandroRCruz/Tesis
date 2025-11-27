@@ -4,7 +4,7 @@ from ultralytics import YOLO
 # Cargar modelo YOLOv8 Pose
 model = YOLO("yolov8s-pose.pt")  # Puedes usar otro modelo si quieres
 
-# Cargar el video (cambia "mi_video.mp4" por el nombre real)
+# Cargar el video
 path= 'C:/Users/Alejandro/Documents/GitHub/Tesis/Videos Necesarios/Prueba_Eri_distancia.mp4'
 cap = cv2.VideoCapture(path)
 

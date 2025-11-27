@@ -1,0 +1,6 @@
+
+Frames procesados: 27/27
+Duración del video real: 1.17 seg
+Tiempo total de procesamiento (solo inferencia y cálculo distancias): 4.01 seg
+Factor de procesamiento vs tiempo real: 3.42x
+CSV guardado en: Estadisticas_Small/estadisticasL12m_small_Color.csv

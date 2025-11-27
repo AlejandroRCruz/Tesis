@@ -1,0 +1,6 @@
+
+Frames procesados: 41/41
+Duración del video real: 1.78 seg
+Tiempo total de procesamiento (solo inferencia y cálculo distancias): 5.83 seg
+Factor de procesamiento vs tiempo real: 3.27x
+CSV guardado en: Estadisticas_Small/estadisticasAcomodo_a4m_small_Color.csv

@@ -1,0 +1,6 @@
+
+Frames procesados: 107/107
+Duración del video real: 4.65 seg
+Tiempo total de procesamiento (solo inferencia y cálculo distancias): 14.61 seg
+Factor de procesamiento vs tiempo real: 3.14x
+CSV guardado en: Estadisticas_Small/estadisticasDezplazamiento_a2m_small_Color.csv

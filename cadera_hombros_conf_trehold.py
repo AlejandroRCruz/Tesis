@@ -3,9 +3,9 @@ import csv
 from ultralytics import YOLO
 
 # ----- Config -----
-MODEL_PATH = "yolov8s-pose.pt"
+MODEL_PATH = "yolov8n-pose.pt"
 VIDEO_PATH = r"C:/Users/Alejandro/Documents/GitHub/Tesis/Videos Necesarios/Prueba_Eri_distancia.mp4"
-CSV_PATH = "capturas_conf_90.csv"
+CSV_PATH = "capturas_conf_90_n.csv"
 
 # Índices COCO
 IDX = {

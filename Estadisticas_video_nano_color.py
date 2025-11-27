@@ -9,11 +9,11 @@ import psutil
 # ---------------------------
 # CONFIGURACIÓN
 # ---------------------------
-VIDEO_PATH = "C:/Users/Alejandro/Documents/GitHub/Tesis/recortes/Frente_5m.mp4"
-OUTPUT_CSV = "estadisticasF5m_nano_Color.csv"
-OUTPUT_TXT = "estadisticasF5m_nano_Color.txt"
+VIDEO_PATH = "C:/Users/Alejandro/Documents/GitHub/Tesis/recortes/acercamiento_final.mp4"
+OUTPUT_CSV = "Estadisticas_Small/estadisticasacercamiento_final_small_Color.csv"
+OUTPUT_TXT = "Estadisticas_Small/estadisticasacercamiento_final_small_Color.txt"
 
-model = YOLO("yolov8n-pose.pt")  # Ligero y rápido
+model = YOLO("yolov8s-pose.pt")  # Ligero y rápido
 
 # ---------------------------
 # ABRIR VIDEO Y OBTENER RESOLUCIÓN
